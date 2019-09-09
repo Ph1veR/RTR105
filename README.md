@@ -4,44 +4,44 @@
 
 -**komandas**
 
--*whoami*-kas es esmu?
+-*whoami*-   kas es esmu?
 
--*pwd*-kur es esmu?
+-*pwd*-   kur es esmu?
 
--*ls*-kas man ir pieejams?
+-*ls*-   kas man ir pieejams?
 
--*CTRL+SHIFT+T*-jaunais tabs
+-*CTRL+SHIFT+T*-   jaunais tabs
 
--*CTRL+ALT+T*-atvert
+-*CTRL+ALT+T*-   atvert
 
--*CTRL+L*-uz augsu
+-*CTRL+L*-   uz augsu
 
--*bultinas*-komandas vesture
+-*bultinas*-   komandas vesture
 
--*TAB* divas reizes-varianti
+-*TAB* divas reizes-  varianti
 
--*man who*-pilniga informacija
+-*man who*-   pilniga informacija
 
--*Q*-aizvert info
+-*Q*-   aizvert info
 
--*uname*-operativas sistemas nosaukums
+-*uname*-   operativas sistemas nosaukums
 
--*uname a*-visa informacija par OS
+-*uname a*-   visa informacija par OS
 
--*ECHO $0*-uzzinat interpritatora nosaukumu
+-*ECHO $0*-   uzzinat interpritatora nosaukumu
 
--*SH*-viens no interpretatoriem
+-*SH*-   viens no interpretatoriem
 
--*/home/user*-atsifrejums-saknes apgabals,mapite home, apksmapite user-tas ir adrese
+-*/home/user*-   atsifrejums-saknes apgabals,mapite home, apksmapite user-tas ir adrese
 
--*LS -L*-izzinat kas ir kas
+-*LS -L*-   izzinat kas ir kas
 
--*punkts pirms objekta*paslept objektu
+-*punkts pirms objekta*-   paslept objektu
 
--*cd*-change director
+-*cd*-   change director
 
--*cd .*-solis uz vietas
+-*cd .*-   solis uz vietas
 
--*cd ..*-solis atpakal
+-*cd ..*-   solis atpakal
 
--*exit*-atgriezties pie pagajuso interpretatoru
+-*exit*-   atgriezties pie pagajuso interpretatoru
