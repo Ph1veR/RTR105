@@ -4,64 +4,65 @@
 
 -**komandas**
 
-###*whoami*- 
+### *whoami*- 
 kas es esmu?
 
-###*pwd*-
+### *pwd*-
 kur es esmu?
 
-###*ls*- 
+### *ls*- 
 kas man ir pieejams?
 
-###*CTRL+SHIFT+T*-
+### *CTRL+SHIFT+T*-
 jaunais tabs
 
-###*CTRL+ALT+T*-
+### *CTRL+ALT+T*-
 atvert
 
-###*CTRL+L*- 
+### *CTRL+L*- 
 uz augsu
 
-###*bultinas*-
+### *bultinas*-
 komandas vesture
 
-###*TAB* divas reizes-
+### *TAB* divas reizes-
 varianti
 
-###*man who*-
+### *man who*-
 pilniga informacija
 
-###*Q*- 
+### *Q*- 
 aizvert info
 
-###*uname*-
+### *uname*-
 operativas sistemas nosaukums
 
-###*uname a*-
+### *uname a*-
 visa informacija par OS
 
-###*ECHO $0*-
+### *ECHO $0*-
 uzzinat interpritatora nosaukumu
 
-###*SH*-
+### *SH*-
 viens no interpretatoriem
 
-###*/home/user*-
+### */home/user*-
 atsifrejums-saknes apgabals,mapite home, apksmapite user-tas ir adrese
 
-###*LS -L*- 
+### *LS -L*- 
 izzinat kas ir kas
 
-###-*punkts pirms objekta*-   paslept objektu
+### *punkts pirms objekta*-  
+paslept objektu
 
-###*cd*- 
+### *cd*- 
 change director
 
-###*cd .*- 
+### *cd .*- 
 solis uz vietas
 
-###*cd ..*-  
+### *cd ..*-  
 solis atpakal
 
-###*exit*-  
+### *exit*-  
 atgriezties pie pagajuso interpretatoru
