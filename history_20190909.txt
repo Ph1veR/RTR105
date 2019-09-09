@@ -3,7 +3,7 @@
     3  whoami
     4  pwd
     5  ls
-    6  sleva mudak
+    6  sleva 
     7  who
     8  whowc
     9  wc
