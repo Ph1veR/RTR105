@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  touch aaa.txt
+    5  ls -l
+    6  touch -c -t 201909171000 aaa.txt
+    7  ls -l
+    8  echo hello World!
+    9  echo hello World! > bbb.txt
+   10  ls -l
+   11  cat bbb.txt
+   12  echo hello World again! > bbb.txt
+   13  cat bbb.txt
+   14  echo hello World! > bbb.txt
+   15  echo hello World again! >> bbb.txt
+   16  ls -l bbb.txt
+   17  cat bbb.txt
+   18  echo hello\vWorld! > bbb.txt
+   19  cat bbb.txt
+   20  echo hello\vWorld!
+   21  man echo
+   22  echo -e "hello\vWorld!" >> ccc.txt
+   23  cat ccc.txt
+   24  ls -l ccc.txt
+   25  ls -l /bin/bash
+   26  cat /bin/bash
+   27  ls -l
+   28  cat aaa.txt
+   29  cat bbb.txt
+   30  cat bbb.txt > bbb.txt
+   31  ls -l
+   32  cp bbb.txt bbb2.txt
+   33  ls -l
+   34  ls -l bbb2.txt
+   35  ls -l *.txt
+   36  ls -l b*.txt
+   37  cd /
+   38  pwd
+   39  mv ~/ccc.txt ~/Music/d10.tx
+   40  cd 
+   41  ls 
+   42  ls -l Music/
+   43  cat /home/use/Music/d10.tx
+   44  cat /home/user/Music/d10.tx
+   45  ls
+   46  mv bbb1.txt e7.xtx
+   47  mv bbb2.txt e7.xtx
+   48  ls
+   49  rm aaa.txt
+   50  ls -l
+   51  ls -l *.txt
+   52  ls -l
+   53  ls -l *.*xt*
+   54  rm *.*xt*
+   55  ls -l
+   56  rm ./Music/d10.tx
+   57  ls ./Music/
+   58  history
+   59  history > history_20190916.txt
