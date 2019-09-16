@@ -57,3 +57,30 @@
    57  ls ./Music/
    58  history
    59  history > history_20190916.txt
+   60  pwd
+   61  nano MansPirmaisSkripts.sh
+   62  ls -l
+   63  cat MansPirmaisSkripts.sh
+   64  ls
+   65  whereis ls
+   66  whereis MansPirmaisSkripts.sh
+   67  ls
+   68  ls -l
+   69  /bin/ls
+   70  ls -l /bin/ls
+   71  ./MansPirmaisSkripts.sh
+   72  pwd
+   73  echo $PATH
+   74  PATH=$PATH:~
+   75  echo $PATH
+   76  MansPirmaisSkripts.sh
+   77  whereis MansPirmaisSkripts.sh
+   78  chmod 740 MansPirmaisSkripts.sh
+   79  ls -l MansPirmaisSkripts.sh
+   80  nano MansPirmaisSkripts.sh
+   81  ls -l
+   82  cat log.txt
+   83  cat error.txt
+   84  ls -l
+   85  history
+   86  history > history_20190916.txt
