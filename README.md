@@ -66,3 +66,21 @@ solis atpakal
 
 ### *exit*-  
 atgriezties pie pagajuso interpretatoru
+
+### *cat*
+lasit failu
+
+### *echo >>*
+papildit failu
+
+### *echo >*
+jauns fails
+
+### *cp*
+copy
+
+### *mv*
+muve
+
+### *rm*
+dzest failu
