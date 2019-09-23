@@ -79,3 +79,43 @@
    79  cd ..
    80  history
    81  history > history_20190923.txt
+   82  ./git-upload 20191923_16_07
+   83  cd ./darbi
+   84  cp hello.c 02.c
+   85  ls -l
+   86  nano 02.c
+   87  gcc 02.c -o lab1
+   88  nano 02.c
+   89  gcc 02.c -o lab1
+   90  nano 02.c
+   91  gcc 02.c -o lab1
+   92  nano 02.c
+   93  gcc 02.c -o lab1
+   94  nano 02.c
+   95  gcc 02.c -o lab1
+   96  nano 02.c
+   97  gcc 02.c -o lab1
+   98  nano 02.c
+   99  gcc 02.c -o lab1
+  100  cp hello.c 03.c
+  101  nano 03.c
+  102  gcc 03.c -0 lab1
+  103  gcc 03.c -o lab1
+  104  nano 03.c
+  105  gcc 03.c -o lab1
+  106  nano 03.c
+  107  nano 02.c
+  108  gcc 02.c
+  109  ./a.out
+  110  nano 02.c
+  111  ./a.out
+  112  gcc 02.c
+  113  ./a.out
+  114  nano 03.c
+  115  gcc 03.c -o lab2
+  116  nano 03.c
+  117  gcc 03.c -o lab2
+  118  ./lab2
+  119  cd ..
+  120  ls -l
+  121  history > history_20190923.txt
