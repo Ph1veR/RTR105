@@ -1,0 +1,148 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/Ph1veR
+    5  git clone https://github.com/Ph1veR/RTR105
+    6  ls -l
+    7  cd RTR105/
+    8  cd darbi
+    9  ls -l
+   10  rm a.out
+   11  ls -l
+   12  rm lab
+   13  rm lab*
+   14  ls -l
+   15  nano c.7
+   16  gcc c.7 -o lab1
+   17  nano c.7
+   18  gcc c.7 -o lab1
+   19  nano c.7
+   20  gcc 7.c -o lab1
+   21  nano c.7
+   22  nano 7.c
+   23  gcc 7.c -o lab1
+   24  nano 7.c
+   25  gcc 7.c -o lab1
+   26  nano 7.c
+   27  gcc 7.c -o lab1
+   28  nano 7.c
+   29  gcc 7.c -o lab1
+   30  lab1
+   31  ./ lab1
+   32  ./lab1
+   33  nano 7.c
+   34  ./lab1
+   35  gcc 7.c -o lab1
+   36  nano 7.c
+   37  gcc 7.c -o lab1
+   38  nano 7.c
+   39  gcc 7.c -o lab1
+   40  nano 7.c
+   41  gcc 7.c -o lab1
+   42  nano 7.c
+   43  gcc 7.c -o lab1
+   44  nano 7.c
+   45  ./lab1
+   46  cd 
+   47  history > history_07102019
+   48  ls -l
+   49  ./git-upload history_07102019
+   50  /git-upload history_07102019
+   51  git-upload history_07102019
+   52  git-upload history 07102019
+   53  git-upload history_07102019
+   54  git-upload 20191007_15_52
+   55  cd /RTR105
+   56  cd RTR105
+   57  git-upload 20191007_15_52
+   58  ls -l
+   59  cd
+   60  ls -l
+   61  rm history
+   62  rm history_07102019
+   63  ls -l
+   64  cd RTR105
+   65  history > history_07102019
+   66  ls -l
+   67  ./git-upload 20191007_15_56
+   68  ls -l
+   69  cd darbi
+   70  cp 07.c 08.c
+   71  cp 7.c 08.c
+   72  nano 08.c
+   73  gcc 08.c -o lab2
+   74  nano 08.c
+   75  gcc 08.c -o lab2
+   76  ./lab2
+   77  nano 08.c
+   78  gcc 08.c -o lab2
+   79  ./lab2
+   80  nano 08.c
+   81  gcc 08.c -o lab2
+   82  ./lab2
+   83  nano 08.c
+   84  gcc 08.c -o lab2
+   85  ./lab2
+   86  nano 08.c
+   87  gcc 08.c -o lab2
+   88  ./lab2
+   89  gcc 08.c -o lab2
+   90  nano 08.c
+   91  gcc 08.c -o lab2
+   92  nano 08.c
+   93  gcc 08.c -o lab2
+   94  ./lab2
+   95  nano 08.c
+   96  gcc 08.c -o lab2
+   97  nano 08.c
+   98  gcc 08.c -o lab2
+   99  nano 08.c
+  100  gcc 08.c -o lab2
+  101  ./lab2
+  102  nano 08.c
+  103  gcc 08.c -o lab2
+  104  nano 08.c
+  105  gcc 08.c -o lab2
+  106  ./lab2
+  107  nano 08.c
+  108  gcc 08.c -o lab2
+  109  ./lab2
+  110  nano 08.c
+  111  gcc 08.c -o lab2
+  112  ./lab2
+  113  nano 08.c
+  114  gcc 08.c -o lab2
+  115  ./lab2
+  116  nano 08.c
+  117  gcc 08.c -o lab2
+  118  ./lab2
+  119  nano 08.c
+  120  gcc 08.c -o lab2
+  121  ./lab2
+  122  nano 08.c
+  123  gcc 08.c -o lab2
+  124  ./lab2
+  125  nano 08.c
+  126  gcc 08.c -o lab2
+  127  ./lab2
+  128  nano 08.c
+  129  gcc 08.c -o lab2
+  130  nano 08.c
+  131  gcc 08.c -o lab2
+  132  nano 08.c
+  133  gcc 08.c -o lab2
+  134  ./lab2
+  135  nano 08.c
+  136  gcc 08.c -o lab2
+  137  ./lab2
+  138  gcc 08.c -o lab2
+  139  nano 08.c
+  140  gcc 08.c -o lab2
+  141  ./lab2
+  142  cd ..
+  143  cd darbi
+  144  ls -l
+  145  rm lab*
+  146  ls -l
+  147  cd ..
+  148  history > history_20191007_17_51
