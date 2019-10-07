@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clone https://github.com/Ph1veR
+    5  git clone https://github.com/Ph1veR/RTR105
+    6  ls -l
+    7  cd RTR105/
+    8  cd darbi
+    9  ls -l
+   10  rm a.out
+   11  ls -l
+   12  rm lab
+   13  rm lab*
+   14  ls -l
+   15  nano c.7
+   16  gcc c.7 -o lab1
+   17  nano c.7
+   18  gcc c.7 -o lab1
+   19  nano c.7
+   20  gcc 7.c -o lab1
+   21  nano c.7
+   22  nano 7.c
+   23  gcc 7.c -o lab1
+   24  nano 7.c
+   25  gcc 7.c -o lab1
+   26  nano 7.c
+   27  gcc 7.c -o lab1
+   28  nano 7.c
+   29  gcc 7.c -o lab1
+   30  lab1
+   31  ./ lab1
+   32  ./lab1
+   33  nano 7.c
+   34  ./lab1
+   35  gcc 7.c -o lab1
+   36  nano 7.c
+   37  gcc 7.c -o lab1
+   38  nano 7.c
+   39  gcc 7.c -o lab1
+   40  nano 7.c
+   41  gcc 7.c -o lab1
+   42  nano 7.c
+   43  gcc 7.c -o lab1
+   44  nano 7.c
+   45  ./lab1
+   46  cd 
+   47  history > history_07102019
+   48  ls -l
+   49  ./git-upload history_07102019
+   50  /git-upload history_07102019
+   51  git-upload history_07102019
+   52  git-upload history 07102019
+   53  git-upload history_07102019
+   54  git-upload 20191007_15_52
+   55  cd /RTR105
+   56  cd RTR105
+   57  git-upload 20191007_15_52
+   58  ls -l
+   59  cd
+   60  ls -l
+   61  rm history
+   62  rm history_07102019
+   63  ls -l
+   64  cd RTR105
+   65  history > history_07102019
