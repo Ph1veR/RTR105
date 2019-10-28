@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  PS1="!"
+    5  git clone https://github.com/Ph1veR/RTR105
+    6  cd RTR105
+    7  pwd
+    8  ls -l
+    9  cd darbi
+   10  pwd
+   11  vim oleg.c
+   12  gcc oleg.c -o oleg
+   13  ./oleg
+   14  history > history_28102019
